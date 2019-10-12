@@ -1,4 +1,4 @@
-# Bubble Mania
+# Bubble
 
 <img src="Screenshots/screenshot1.png" width="300">    <img src="Screenshots/screenshot2.png" width="300">
 <img src="Screenshots/screenshot3.png" width="300">    <img src="Screenshots/screenshot4.png" width="300">
@@ -22,4 +22,4 @@ If a destroyed bubble satisfies both 1 and 2 eg. a snapped blue bubble, a bomb b
 
 ## Level designer
 Design your own level; allows saving/loading.
-# BubbleMinaGame
+# Bubble
